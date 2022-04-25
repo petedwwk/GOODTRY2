@@ -2,7 +2,7 @@
 var startGame = `Game start`;
 var cardsDrawn = `Cards Drawn`;
 var hitOrStand = `Hit or Stand`;
-
+//hi
 var CurrentGameMode = startGame;
 console.log(CurrentGameMode);
 /*========= game deck ===========*/
